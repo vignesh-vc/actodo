@@ -7,7 +7,7 @@ function Todocontainer() {
         {
             id:1,activity:"Go for walk"
         },{
-            id:2,activity:"Have a breack Fast"
+            id:2,activity:"Have a break Fast"
         }
     ])
     return (
